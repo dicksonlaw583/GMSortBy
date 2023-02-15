@@ -1,0 +1,57 @@
+{
+  "resourceType": "GMProject",
+  "resourceVersion": "1.6",
+  "name": "GMSortBy",
+  "resources": [
+    {"id":{"name":"__GMA_SETTINGS__","path":"scripts/__GMA_SETTINGS__/__GMA_SETTINGS__.yy",},"order":1,},
+    {"id":{"name":"GMAssert","path":"extensions/GMAssert/GMAssert.yy",},"order":0,},
+    {"id":{"name":"__GMA_BREAKPOINT__","path":"scripts/__GMA_BREAKPOINT__/__GMA_BREAKPOINT__.yy",},"order":0,},
+    {"id":{"name":"sortby_index","path":"scripts/sortby_index/sortby_index.yy",},"order":0,},
+    {"id":{"name":"gmsortby_test_all","path":"scripts/gmsortby_test_all/gmsortby_test_all.yy",},"order":1,},
+    {"id":{"name":"gmsortby_test_sortby_index","path":"scripts/gmsortby_test_sortby_index/gmsortby_test_sortby_index.yy",},"order":2,},
+    {"id":{"name":"GMSortBy_TestArray","path":"scripts/GMSortBy_TestArray/GMSortBy_TestArray.yy",},"order":4,},
+    {"id":{"name":"gmsortby_test_sortby_key","path":"scripts/gmsortby_test_sortby_key/gmsortby_test_sortby_key.yy",},"order":3,},
+    {"id":{"name":"sortby_key","path":"scripts/sortby_key/sortby_key.yy",},"order":1,},
+    {"id":{"name":"rm_gmsortby_test","path":"rooms/rm_gmsortby_test/rm_gmsortby_test.yy",},"order":0,},
+  ],
+  "Options": [
+    {"name":"HTML5","path":"options/html5/options_html5.yy",},
+    {"name":"iOS","path":"options/ios/options_ios.yy",},
+    {"name":"tvOS","path":"options/tvos/options_tvos.yy",},
+    {"name":"macOS","path":"options/mac/options_mac.yy",},
+    {"name":"Linux","path":"options/linux/options_linux.yy",},
+    {"name":"Android","path":"options/android/options_android.yy",},
+    {"name":"Windows","path":"options/windows/options_windows.yy",},
+    {"name":"Main","path":"options/main/options_main.yy",},
+    {"name":"Amazon Fire","path":"options/amazonfire/options_amazonfire.yy",},
+    {"name":"operagx","path":"options/operagx/options_operagx.yy",},
+  ],
+  "defaultScriptType": 1,
+  "isEcma": false,
+  "configs": {
+    "name": "Default",
+    "children": [],
+  },
+  "RoomOrderNodes": [
+    {"roomId":{"name":"rm_gmsortby_test","path":"rooms/rm_gmsortby_test/rm_gmsortby_test.yy",},},
+  ],
+  "Folders": [
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Libraries_config","folderPath":"folders/Libraries_config.yy","order":16,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"GMAssert","folderPath":"folders/Libraries_config/GMAssert.yy","order":1,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Libraries_test","folderPath":"folders/Libraries_test.yy","order":17,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"GMSortBy_test","folderPath":"folders/Libraries_test/GMSortBy_test.yy","order":1,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Libraries","folderPath":"folders/Libraries.yy","order":15,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"GMAssert","folderPath":"folders/Libraries/GMAssert.yy","order":1,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"GMSortBy","folderPath":"folders/Libraries/GMSortBy.yy","order":2,},
+  ],
+  "AudioGroups": [
+    {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},
+  ],
+  "TextureGroups": [
+    {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","isScaled":true,"compressFormat":"bz2","loadType":"default","directory":"","autocrop":true,"border":2,"mipsToGenerate":0,"groupParent":null,"targets":-1,},
+  ],
+  "IncludedFiles": [],
+  "MetaData": {
+    "IDEVersion": "2022.0.0.19",
+  },
+}
