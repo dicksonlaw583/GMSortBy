@@ -10,6 +10,7 @@ function gmsortby_test_all() {
 	/* v Tests here v */
 	gmsortby_test_sortby_index();
 	gmsortby_test_sortby_key();
+	gmsortby_test_sortby_path();
 	/* ^ Tests here ^ */
 	
 	timeB = current_time;

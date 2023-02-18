@@ -11,6 +11,8 @@
     {"id":{"name":"gmsortby_test_sortby_index","path":"scripts/gmsortby_test_sortby_index/gmsortby_test_sortby_index.yy",},"order":2,},
     {"id":{"name":"GMSortBy_TestArray","path":"scripts/GMSortBy_TestArray/GMSortBy_TestArray.yy",},"order":4,},
     {"id":{"name":"gmsortby_test_sortby_key","path":"scripts/gmsortby_test_sortby_key/gmsortby_test_sortby_key.yy",},"order":3,},
+    {"id":{"name":"gmsortby_test_sortby_path","path":"scripts/gmsortby_test_sortby_path/gmsortby_test_sortby_path.yy",},"order":5,},
+    {"id":{"name":"sortby_path","path":"scripts/sortby_path/sortby_path.yy",},"order":2,},
     {"id":{"name":"sortby_key","path":"scripts/sortby_key/sortby_key.yy",},"order":1,},
     {"id":{"name":"rm_gmsortby_test","path":"rooms/rm_gmsortby_test/rm_gmsortby_test.yy",},"order":0,},
   ],
