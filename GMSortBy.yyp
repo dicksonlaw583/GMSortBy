@@ -4,6 +4,7 @@
   "name": "GMSortBy",
   "resources": [
     {"id":{"name":"__GMA_SETTINGS__","path":"scripts/__GMA_SETTINGS__/__GMA_SETTINGS__.yy",},"order":1,},
+    {"id":{"name":"gmsortby_test_sortby_instvars","path":"scripts/gmsortby_test_sortby_instvars/gmsortby_test_sortby_instvars.yy",},"order":10,},
     {"id":{"name":"sortby_indices","path":"scripts/sortby_indices/sortby_indices.yy",},"order":4,},
     {"id":{"name":"sortby_instvar","path":"scripts/sortby_instvar/sortby_instvar.yy",},"order":3,},
     {"id":{"name":"GMAssert","path":"extensions/GMAssert/GMAssert.yy",},"order":0,},
@@ -19,6 +20,7 @@
     {"id":{"name":"gmsortby_test_sortby_path","path":"scripts/gmsortby_test_sortby_path/gmsortby_test_sortby_path.yy",},"order":5,},
     {"id":{"name":"gmsortby_test_sortby_indices","path":"scripts/gmsortby_test_sortby_indices/gmsortby_test_sortby_indices.yy",},"order":8,},
     {"id":{"name":"gmsortby_test_sortby_instvar","path":"scripts/gmsortby_test_sortby_instvar/gmsortby_test_sortby_instvar.yy",},"order":6,},
+    {"id":{"name":"sortby_instvars","path":"scripts/sortby_instvars/sortby_instvars.yy",},"order":6,},
     {"id":{"name":"sortby_path","path":"scripts/sortby_path/sortby_path.yy",},"order":2,},
     {"id":{"name":"sortby_key","path":"scripts/sortby_key/sortby_key.yy",},"order":1,},
     {"id":{"name":"rm_gmsortby_test","path":"rooms/rm_gmsortby_test/rm_gmsortby_test.yy",},"order":0,},

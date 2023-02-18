@@ -14,6 +14,7 @@ function gmsortby_test_all() {
 	gmsortby_test_sortby_instvar();
 	gmsortby_test_sortby_indices();
 	gmsortby_test_sortby_keys();
+	gmsortby_test_sortby_instvars();
 	/* ^ Tests here ^ */
 	
 	timeB = current_time;
