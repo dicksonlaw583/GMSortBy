@@ -1,6 +1,6 @@
 ///@func sortby_indices(indices, [asc])
 ///@arg {Array<Real>} indices The index positions to sort by.
-///@arg {Bool,Array<Bool>} [asc] OPTIONAL Sort in ascending (true) or descending (false) order.
+///@arg {Bool,Array<Bool>} [asc] OPTIONAL Sort in ascending (true) or descending (false) order, or a mix of orders.
 ///@return {Function}
 ///@desc Return a comparer method that looks at the given indices in arrays a and b.
 

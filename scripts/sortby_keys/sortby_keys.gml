@@ -1,6 +1,6 @@
 ///@func sortby_keys(keys, [asc])
 ///@arg {Array<String>} keys The keys to sort by.
-///@arg {Bool,Array<Bool>} [asc] OPTIONAL Sort in ascending (true) or descending (false) order.
+///@arg {Bool,Array<Bool>} [asc] OPTIONAL Sort in ascending (true) or descending (false) order, or a mix of orders.
 ///@return {Function}
 ///@desc Return a comparer method that looks at the given keys in structs a and b.
 

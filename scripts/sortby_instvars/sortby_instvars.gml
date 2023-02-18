@@ -1,6 +1,6 @@
 ///@func sortby_instvars(varnames, [asc])
 ///@arg {Array<String>} varnames The instance variable names to sort by.
-///@arg {Bool,Array<Bool>} [asc] OPTIONAL Sort in ascending (true) or descending (false) order.
+///@arg {Bool,Array<Bool>} [asc] OPTIONAL Sort in ascending (true) or descending (false) order, or a mix of orders.
 ///@return {Function}
 ///@desc Return a comparer method that looks at the given instance variables in instances a and b.
 
