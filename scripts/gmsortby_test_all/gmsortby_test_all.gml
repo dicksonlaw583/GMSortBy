@@ -11,6 +11,7 @@ function gmsortby_test_all() {
 	gmsortby_test_sortby_index();
 	gmsortby_test_sortby_key();
 	gmsortby_test_sortby_path();
+	gmsortby_test_sortby_instvar();
 	/* ^ Tests here ^ */
 	
 	timeB = current_time;
