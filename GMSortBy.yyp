@@ -7,6 +7,8 @@
     {"id":{"name":"sortby_indices","path":"scripts/sortby_indices/sortby_indices.yy",},"order":4,},
     {"id":{"name":"sortby_instvar","path":"scripts/sortby_instvar/sortby_instvar.yy",},"order":3,},
     {"id":{"name":"GMAssert","path":"extensions/GMAssert/GMAssert.yy",},"order":0,},
+    {"id":{"name":"gmsortby_test_sortby_keys","path":"scripts/gmsortby_test_sortby_keys/gmsortby_test_sortby_keys.yy",},"order":9,},
+    {"id":{"name":"sortby_keys","path":"scripts/sortby_keys/sortby_keys.yy",},"order":5,},
     {"id":{"name":"__obj_gmsortby_test__","path":"objects/__obj_gmsortby_test__/__obj_gmsortby_test__.yy",},"order":7,},
     {"id":{"name":"__GMA_BREAKPOINT__","path":"scripts/__GMA_BREAKPOINT__/__GMA_BREAKPOINT__.yy",},"order":0,},
     {"id":{"name":"sortby_index","path":"scripts/sortby_index/sortby_index.yy",},"order":0,},
